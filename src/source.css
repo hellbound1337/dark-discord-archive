@@ -1451,3 +1451,7 @@ foreignObject[mask="url(#svg-mask-status-offline)"] .status-1AY8sU {
 .theme-dark .selectYourAnswer-2lDJj_ {
     color: var(--text-muted);
 }
+
+.theme-dark .tierPill-1yRO48 {
+    background-color: var(--background-secondary-alt);
+}
