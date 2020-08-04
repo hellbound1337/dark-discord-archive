@@ -1526,3 +1526,9 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .theme-dark .gemWithoutLabel-7-ZvB_ {
     color: var(--text-muted);
 }
+
+.theme-light .input-1mgnkM,
+.theme-dark .input-1mgnkM {
+    color: var(--text-normal) !important;
+    border-bottom-color: var(--text-normal) !important;
+}
