@@ -47,5 +47,4 @@
     --toast-contents: var(--background-secondary) !important;
     --toast-box-shadow: rgba(0, 0, 0, .2) !important;
     --toast-border: var(--background-tertiary) !important;
-    --offline-color: rgb(60, 60, 60) !important;
 }
