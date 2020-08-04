@@ -1518,3 +1518,11 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .lookFilled-1Gx00P.colorGreen-29iAKY {
     color: #ffffff;
 }
+
+.theme-dark .gemIndicatorContainer-2jdECl {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .gemWithoutLabel-7-ZvB_ {
+    color: var(--text-muted);
+}
