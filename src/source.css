@@ -557,26 +557,6 @@
     background-color: var(--background-primary);
 }
 
-.colorStandard-2KCXvj {
-    color: white;
-}
-
-.header-3ZP1MY {
-    color: white;
-}
-
-.input-1mgnkM {
-    color: white !important;
-}
-
-.cancelButton-RGXhAE {
-    color: white !important;
-}
-
-.description-QF3836 {
-    color: white !important;
-}
-
 .theme-dark .notice-2X5hT5 {
     background-color: var(--background-floating);
 }
@@ -780,10 +760,6 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 
 .theme-dark .pageIndicator-1gAbyA {
     border-color: var(--background-accent);
-}
-
-.theme-dark .paginator-2CA79G {
-    color: white;
 }
 
 .theme-dark .paymentHeader-3QlZQi {
