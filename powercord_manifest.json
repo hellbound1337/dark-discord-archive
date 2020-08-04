@@ -4,7 +4,6 @@
     "version": "1.0.0",
     "author": "hellbound#9999",
     "theme": "DarkDiscord.theme.css",
-    "consent": "false",
     "splashTheme": "splash.css",
     "license": "Unlicensed"
 }
