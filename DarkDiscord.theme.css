@@ -40,6 +40,7 @@
     --interactive-hover: #dcddde !important;
     --interactive-active: #fff !important;
     --interactive-muted: #747474 !important;
+    --header-primary: white !important;
     --header-secondary: #c9c9c9 !important;
     --toast-background: var(--background-primary) !important;
     --toast-header: var(--background-tertiary) !important;
