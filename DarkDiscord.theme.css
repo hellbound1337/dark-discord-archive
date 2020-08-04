@@ -29,6 +29,8 @@
     --channeltextarea-background: var(--background-accent) !important;
     --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
     --deprecated-card-editable-bg: rgba(0,0,0,0.1) !important;
+    --deprecated-text-input-bg: var(--background-tertiary) !important;
+    --deprecated-text-input-border: var(--background-modifier-accent) !important;
     --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
     --activity-card-background: var(--background-primary) !important;
     --channels-default: #9f9f9f !important;
