@@ -1532,3 +1532,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     color: var(--text-normal) !important;
     border-bottom-color: var(--text-normal) !important;
 }
+
+.input-cIJ7To {
+    background-color: rgba(0,0,0,0.1) !important;
+}
