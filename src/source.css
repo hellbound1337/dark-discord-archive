@@ -1542,3 +1542,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     -webkit-box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px var(--background-tertiary);
     box-shadow: 0 2px 10px 0 rgba(0,0,0,.2), 0 0 0 1px var(--background-tertiary);
 }
+
+.message-2qnXI6.mentioned-xhSam7 .scrollableContainer-2NUZem {
+    background-color: var(--background-modifier-active) !important;
+}
