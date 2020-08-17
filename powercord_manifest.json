@@ -3,7 +3,7 @@
     "description": "An actual dark mode for discord.",
     "version": "1.0.0",
     "author": "hellbound#9999",
-    "theme": "DarkDiscord.theme.css",
+    "theme": "DarkDiscord.scss",
     "splashTheme": "splash.css",
     "license": "Unlicensed"
 }
