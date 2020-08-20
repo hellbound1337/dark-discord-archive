@@ -519,11 +519,13 @@
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day {
    border-top-color: var(--background-tertiary);
    border-left-color: var(--background-tertiary);
+   color: var(--text-normal);
 }
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
    background-color: var(--background-floating);
+   color: var(--text-normal);
 }
 
 .theme-dark .streamPreview-2-WUWT {
@@ -566,6 +568,7 @@
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled,
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {
    background-color: var(--background-modifier-accent);
+   color: var(--text-normal);
 }
 
 .theme-dark .searchAnswer-3Dz2-q,
@@ -847,6 +850,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
    justify-content: space-between;
    padding: 10px;
    box-sizing: border-box;
+   height: auto;
 }
 
 #app-mount .help-text,
@@ -856,10 +860,6 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 
 #app-mount #bd-customcss-detach-container .editor-wrapper {
    height: calc(100% + 41px);
-}
-
-#app-mount #bd-customcss-attach-controls {
-   height: auto;
 }
 
 .bd-search-wrapper {
@@ -1273,10 +1273,6 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
    color: var(--text-muted);
 }
 
-.theme-dark .option-96V44q .filter-3Y_im- {
-   color: #cdcdcd;
-}
-
 .applicationStore-1pNvnv {
    background-color: var(--background-primary);
 }
@@ -1481,20 +1477,6 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 }
 
 .theme-dark .content-Qb0rXO {
-   color: var(--text-normal);
-}
-
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled,
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month {
-   color: var(--text-normal);
-}
-
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
-   color: var(--text-normal);
-}
-
-.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day {
    color: var(--text-normal);
 }
 
