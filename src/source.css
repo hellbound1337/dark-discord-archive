@@ -46,11 +46,6 @@
    border-radius: 8px !important;
 }
 
-.scrollableContainer-2NUZem::-webkit-scrollbar-thumb {
-   background-color: transparent !important;
-   border-color: transparent !important;
-}
-
 .scrollableContainer-2NUZem::-webkit-scrollbar-corner {
    background-color: transparent !important;
 }
