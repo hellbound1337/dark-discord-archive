@@ -1567,3 +1567,19 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .message-2qnXI6.mentioned-xhSam7 .scrollableContainer-2NUZem {
    background-color: var(--background-modifier-active) !important;
 }
+
+theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
+   color: var(--text-normal);
+}
+
+.theme-dark .option-96V44q.user-O3Czj0 .displayUsername-Qekxml {
+   color: var(--text-muted);
+}
+
+.theme-dark .searchResultChannelCategory-1l0lSn, .theme-dark .searchResultChannelIcon-1DnTme {
+   color: var(--text-muted);
+}
+
+.theme-dark .option-96V44q strong {
+   color: var(--text-normal);
+}
