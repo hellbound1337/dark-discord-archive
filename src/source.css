@@ -1583,3 +1583,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .option-96V44q strong {
    color: var(--text-normal);
 }
+
+.PluginDownloaderApply:not(.applied) div:hover {
+   background-color: var(--background-modifier-accent);
+}
