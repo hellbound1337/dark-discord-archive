@@ -109,6 +109,7 @@
 .theme-dark .body-3iLsc4,
 .theme-dark .footer-1fjuF6 {
    background-color: var(--background-secondary);
+   color: var(--text-normal);
 }
 
 .emojiItem-14v6tW.emojiItemSelected-1aLkfV {
@@ -1526,11 +1527,6 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 
 .headerName-fajvi9,
 .headerTagUsernameNoNickname-2_H881 {
-   color: var(--text-normal);
-}
-
-.theme-dark .body-3iLsc4,
-.theme-dark .footer-1fjuF6 {
    color: var(--text-normal);
 }
 
