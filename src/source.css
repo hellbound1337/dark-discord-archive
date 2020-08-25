@@ -1555,6 +1555,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 
 .input-cIJ7To {
    background-color: rgba(0, 0, 0, 0.1) !important;
+   border: 1px solid rgba(0,0,0,0.2);
 }
 
 .theme-dark .guildPopout-3CgKqR {
@@ -1589,8 +1590,4 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 
 .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g {
    border-color: rgba(0,0,0,0.2);
-}
-
-.input-cIJ7To {
-   border: 1px solid rgba(0,0,0,0.2);
 }
