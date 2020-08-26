@@ -1548,7 +1548,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
    border-bottom-color: var(--text-normal) !important;
 }
 
-.input-cIJ7To {
+.input-cIJ7To:not(.textarea-2r0oV8) {
    background-color: rgba(0, 0, 0, 0.1) !important;
    border: 1px solid rgba(0,0,0,0.2);
 }
