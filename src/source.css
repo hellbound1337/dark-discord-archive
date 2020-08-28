@@ -1597,3 +1597,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g {
    border-color: rgba(0,0,0,0.2);
 }
+
+.theme-dark .addGamePopout-2RY8Ju {
+   background-color: var(--background-secondary);
+}
