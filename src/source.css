@@ -1601,3 +1601,11 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .addGamePopout-2RY8Ju {
    background-color: var(--background-secondary);
 }
+
+.theme-dark .lastPlayed-3bQ7Bo, .theme-dark .overlayStatusText-L2IACa {
+    color: var(--text-muted);
+}
+
+.theme-dark .nowPlayingAdd-1Kdmh_, .theme-light .nowPlayingAdd-1Kdmh_ {
+    color: var(--text-muted);
+}
