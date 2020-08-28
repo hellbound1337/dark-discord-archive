@@ -713,7 +713,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 
 .tierMarkerAccomplished-2MiXeg,
 .tierMarkerInProgress-24LMzJ {
-   background: var(--background-primary);
+   background: var(--background-primary) !important;
 }
 
 .theme-dark .tierHeaderLocked-1s2JJz {
