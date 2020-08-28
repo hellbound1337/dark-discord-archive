@@ -695,12 +695,12 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 }
 
 .theme-dark .barBackground-2EEiLw {
-   background-color: var(--background-accent);
+   background-color: var(--background-primary);
 }
 
 .theme-light .input-UJ9Tr3 {
-   color: lightgray;
-   border-bottom-color: lightgray;
+   color: var(--text-normal);
+   border-bottom-color: var(--text-normal);
 }
 
 .theme-dark .tierBody-16Chc9 {
