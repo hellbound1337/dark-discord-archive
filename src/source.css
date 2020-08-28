@@ -621,9 +621,8 @@
    .cardPrimaryEditable-3KtE4g:first-of-type,
 .theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw + .marginTop40-i-78cZ .radioGroup-1GBvlr .item-26Dhrx:first-of-type {
    animation: flash 1s ease infinite;
-   background: #f04747;
-   border-color: #f04747;
-   color: white;
+    background: #f04747;
+    color: white;
 }
 
 .theme-light .app-2rEoOp .base-3dtUhz {
@@ -673,11 +672,22 @@
    visibility: hidden !important;
 }
 
-.platform-win.theme-light .item-PXvHYJ:nth-of-type(20),
-html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
-   transition: 200ms cubic-bezier(0, 0, 0, 1);
-   background: red !important;
-   border: 2px solid #fff;
+@keyframes flash {
+    100% {
+        border-color: white;
+    }
+    50% {
+        border-color: #f04747;
+    }
+    0% {
+        border-color: white;
+    }
+}
+
+.platform-win.theme-light .item-PXvHYJ:nth-of-type(20), html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
+    background: #f04747 !important;
+    border: 1px solid transparent;
+    animation: flash 1s ease infinite;
 }
 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {
