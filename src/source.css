@@ -1609,3 +1609,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .nowPlayingAdd-1Kdmh_, .theme-light .nowPlayingAdd-1Kdmh_ {
     color: var(--text-muted);
 }
+
+.upsellFooter-ZYsio_ {
+    background-color: var(--background-tertiary);
+}
