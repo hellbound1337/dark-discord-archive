@@ -1603,13 +1603,21 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 }
 
 .theme-dark .lastPlayed-3bQ7Bo, .theme-dark .overlayStatusText-L2IACa {
-    color: var(--text-muted);
+   color: var(--text-muted);
 }
 
 .theme-dark .nowPlayingAdd-1Kdmh_, .theme-light .nowPlayingAdd-1Kdmh_ {
-    color: var(--text-muted);
+   color: var(--text-muted);
 }
 
 .upsellFooter-ZYsio_ {
-    background-color: var(--background-tertiary);
+   background-color: var(--background-tertiary);
+}
+
+.jumpToPresentBar-G1R9s6 {
+   background-color: var(--background-secondary-alt);
+}
+
+.unread-1xRYoj {
+   background-color: var(--background-secondary-alt);
 }
