@@ -1634,3 +1634,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .lookFilled-1Gx00P.colorTransparent-1ewNp9:hover {
     background-color: var(--background-secondary-alt);
 }
+
+.lookFilled-1Gx00P.colorBlack-1jwPVL:hover {
+    background-color: black;
+}
