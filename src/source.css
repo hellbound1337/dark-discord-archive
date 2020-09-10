@@ -453,7 +453,7 @@
    background-color: var(--background-modifier-active);
 }
 
-.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+.theme-dark .emojiAliasInput-1y-NBz .emojiinput-1aLNse {
    background-color: var(--background-tertiary);
 }
 
@@ -549,10 +549,6 @@
 
 .theme-dark .progress-1IcQ3A {
    background-color: var(--background-accent);
-}
-
-.input-2VB9rf {
-   background-color: var(--background-tertiary);
 }
 
 .quickswitcher-3JagVE {
@@ -1558,11 +1554,6 @@
 .theme-dark .input-1mgnkM {
    color: var(--text-normal) !important;
    border-bottom-color: var(--text-normal) !important;
-}
-
-.input-cIJ7To:not(.textarea-2r0oV8) {
-   background-color: rgba(0, 0, 0, 0.1) !important;
-   border: 1px solid rgba(0,0,0,0.2);
 }
 
 .theme-dark .guildPopout-3CgKqR {
