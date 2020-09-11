@@ -1641,3 +1641,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .header-1pGpFt {
    background-image: none;
 }
+
+.children-19S4PO::after {
+   background: none !important;
+}
