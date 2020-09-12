@@ -1645,3 +1645,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .children-19S4PO::after {
    display: none;
 }
+
+.input-2VB9rf {
+   background-color: var(--background-accent);
+}
