@@ -1,9 +1,9 @@
-# Dark Discord [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/dark-discord/badge)](https://www.codefactor.io/repository/github/hellbound1337/dark-discord)
+# Dark Discord [![CodeFactor](https://www.codefactor.io/repository/github/hellboundthegod/dark-discord/badge)](https://www.codefactor.io/repository/github/hellboundthegod/dark-discord)
 An actual dark mode for discord.
 
 # Downloads
 - [BetterDiscord](https://betterdiscord.net/ghdl?id=3270)
-- Powercord: `git clone https://github.com/hellbound1337/dark-discord/`
+- Powercord: `git clone https://github.com/hellboundthegod/dark-discord/`
 
 # Preview
 <img src="https://i.imgur.com/ehSSS0U.png"/>
