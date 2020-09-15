@@ -3,7 +3,7 @@
  * @name Dark Discord
  * @version 1.0
  * @description An actual dark mode for discord.
- * @source https://github.com/hellbound1337/dark-discord
+ * @source https://github.com/hellboundthegod/dark-discord
  * @authorId 426147523305144322
  * @author hellbound
  * @donate https://paypal.me/zzzmario
@@ -11,7 +11,7 @@
 
 **/
 
-@import url(https://raw.githack.com/hellbound1337/dark-discord/master/src/source.css);
+@import url(https://raw.githack.com/hellboundthegod/dark-discord/master/src/source.css);
 
 .theme-dark,
 .theme-light,
